@@ -1,5 +1,4 @@
-![Header](https://www.canva.com/design/DAG1Kx7fj3c/-_aEN-35xmGkDLFFSqoxNg/view?utm_content=DAG1Kx7fj3c&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0bb211d12a)
-
+![Header](https://raw.githubusercontent.com/ranjithreddykv/ranjithreddykv/main/Black%20Minimalist%20Linkedin%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ranjith Reddy KV</h1>
 <h3 align="center">Full Stack MERN/PERN Developer from India 🇮🇳</h3>
 
